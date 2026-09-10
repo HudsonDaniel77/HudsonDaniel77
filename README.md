@@ -63,7 +63,7 @@ interests:
 
 coding:
   platform: "LeetCode"
-  solved: "250+ Problems"
+  solved: "300+ Problems"
 ```
 
 ---
